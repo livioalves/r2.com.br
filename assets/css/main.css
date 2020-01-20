@@ -77,6 +77,16 @@ input, select, textarea {
 .sunday, .sundayHours {
 	font-size: 0.6em;
 }
+.Horarios {
+    font-size: 0.5em;
+    background: white;
+    width: 40%;
+    padding: 0em 1em;
+    text-align: center;
+    position: absolute;
+    top: -13px;
+    right: 10px;
+}
 
 /* Basic */
 
@@ -2651,10 +2661,6 @@ input, select, textarea {
 
 				#banner ul {
 					margin: 0;
-				}
-
-				#banner .button {
-					margin: 0 0 1em 0;
 				}
 
 		/* Content */
