@@ -2091,8 +2091,7 @@ input, select, textarea {
 			#banner .button.icon:before {
 				position: absolute;
 				right: 0.15em;
-				top: 50%;
-				margin-top: -0.5em;
+				margin-top: 1 em;
 			}
 
 			#banner .button.alt {
