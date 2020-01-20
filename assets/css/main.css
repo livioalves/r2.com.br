@@ -68,13 +68,13 @@ input, select, textarea {
 	appearance: none;
 }
 
-monday, mondayHours,
-tuesday, tuesdayHours,
-wednesday, wednesdayHours,
-thursday, thursdayHours,
-friday, fridayHours,
-saturday, saturdayHours,
-sunday, sundayHours {
+.monday, .mondayHours,
+.tuesday, .tuesdayHours,
+.wednesday, .wednesdayHours,
+.thursday, .thursdayHours,
+.friday, .fridayHours,
+.saturday, .saturdayHours,
+.sunday, .sundayHours {
 	font-size: 0.4em;
 }
 
