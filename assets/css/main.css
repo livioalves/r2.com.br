@@ -76,6 +76,7 @@ input, select, textarea {
 .saturday, .saturdayHours,
 .sunday, .sundayHours {
 	font-size: 0.6em;
+	text-align: center;
 }
 .Horarios {
     font-size: 0.5em;
@@ -86,6 +87,10 @@ input, select, textarea {
     position: absolute;
     top: -13px;
     right: 10px;
+}
+
+.mondayHours, .tuesdayHours, .wednesdayHours, .thursdayHours, .fridayHours, .saturdayHours, .sundayHours {
+    font-weight: 100;
 }
 
 /* Basic */
