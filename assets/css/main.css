@@ -17,7 +17,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100px;
-	font: -webkit-control;
+	font-family: 'Roboto', sans-serif;
 	vertical-align: baseline;
 	}
 
@@ -91,7 +91,6 @@ input, select, textarea {
 		background-position: top left, top left;
 		background-repeat: repeat-x, repeat;
 		background-size: 100% 30em, auto;
-		font-family: 'Roboto', sans-serif;
 		font-size: 13pt;
 		color: #000000;
 		font-weight: 300;
