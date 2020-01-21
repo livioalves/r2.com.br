@@ -1919,7 +1919,7 @@ input, select, textarea {
 /* Wrappers */
 
 	#header-wrapper {
-		padding: 4.5em 0 3em 0;
+		padding: 2.5em 0 0.3em 0;
 	}
 
 	#features-wrapper {
@@ -2256,7 +2256,7 @@ input, select, textarea {
 		/* Wrappers */
 
 			#header-wrapper {
-				padding: 3em 0 1em 0;
+				padding: 3em 0 0 0;
 				text-align: center;
 			}
 
