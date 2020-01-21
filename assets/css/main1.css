@@ -92,6 +92,7 @@ input, select, textarea {
 .mondayHours, .tuesdayHours, .wednesdayHours, .thursdayHours, .fridayHours, .saturdayHours, .sundayHours {
     font-weight: 100;
 }
+
 /* Basic */
 
 	@-ms-viewport {
