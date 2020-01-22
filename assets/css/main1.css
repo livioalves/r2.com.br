@@ -218,12 +218,16 @@ input, select, textarea {
 		max-width: 100%;
 		width: 1400px;
 	}
+.videoMain {
+				margin-top: -150px;
+			}
 
 		@media screen and (max-width: 1680px) {
 
 			.container {
 				width: 1200px;
 			}
+			
 
 		}
 
@@ -232,6 +236,7 @@ input, select, textarea {
 			.container {
 				width: 960px;
 			}
+			
 
 		}
 
@@ -240,6 +245,9 @@ input, select, textarea {
 			.container {
 				width: 90%;
 			}
+			.videoMain {
+				margin-top: 0px;
+			}
 
 		}
 
@@ -247,6 +255,9 @@ input, select, textarea {
 
 			.container {
 				width: 100%;
+			}
+			.videoMain {
+				margin-top: 0px;
 			}
 
 		}
